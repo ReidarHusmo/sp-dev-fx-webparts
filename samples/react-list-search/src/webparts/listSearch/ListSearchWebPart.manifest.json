@@ -19,7 +19,7 @@
     "groupId": "5c03119e-3074-46fd-976b-c60198311f70", // Other
     "group": { "default": "Other" },
     "title": { "default": "list-search" },
-    "description": { "default": "SharePoitn list search custom webpart" },
+    "description": { "default": "SharePoint list search custom webpart" },
     "officeFabricIconFontName": "PageListFilter",
     "properties": {
       "description": "list-search"
